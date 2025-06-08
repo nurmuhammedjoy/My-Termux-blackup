@@ -1,0 +1,55 @@
+.local/share/nvim/lazy/
+.local/share/Trash/
+# Ignore system junk
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Ignore Trash and temp files
+.local/share/Trash/
+*.log
+*.tmp
+
+# Ignore secrets and tokens
+*.env
+*.token
+*.key
+*.pem
+secrets.*
+config.json
+credentials.json
+
+# Ignore nvim plugin folders (lazy.nvim)
+.local/share/nvim/lazy/
+.local/state/nvim/
+.cache/nvim/
+.config/nvim/plugin/**
+
+# Ignore plugin managers (optional)
+.config/nvim/plugged/
+.config/nvim/site/pack/
+
+# Ignore termux-specific runtime stuff
+storage/
+usr/tmp/
+tmp/
+termux.properties
+
+# Ignore package caches (npm/yarn, pip, etc.)
+node_modules/
+.yarn/
+.pnpm/
+__pycache__/
+*.pyc
+
+# Ignore compiled binaries or build artifacts
+dist/
+build/
+*.out
+*.o
+*.so
+
+# Optional: ignore big themes or icons
+.local/share/icons/
+.local/share/themes/
