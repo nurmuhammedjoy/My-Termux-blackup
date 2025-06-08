@@ -1,0 +1,8 @@
+
+[audqt]
+icon_theme=audacious-flat-dark
+theme=dark
+
+[qtui]
+player_height=512
+player_width=802

@@ -1,0 +1,166 @@
+<!-- =====================================================================  -->
+<!-- This file contains AbiSuite Preferences.  AbiSuite is a suite of Open  -->
+<!-- Source desktop applications developed by AbiSource, Inc.  Information  -->
+<!-- about this application can be found at http://www.abisource.com        -->
+<!-- You should not edit this file by hand.                                 -->
+<!-- =====================================================================  -->
+
+<!--         Build_ID          = unknown -->
+<!--         Build_Version     = 3.0.6 -->
+<!--         Build_CompileTime = 00:23:41 -->
+<!--         Build_CompileDate = Apr 14 2025 -->
+
+<AbiPreferences app="abiword" ver="1.0">
+
+	<Select
+	    scheme="_custom_"
+	    autosaveprefs="1"
+	    useenvlocale="1"
+	/>
+
+	<!-- The following scheme, _builtin_, contains the built-in application
+	**** defaults and adjusted by the installation system defaults.  This scheme
+	**** is only written here as a reference.  Any schemes following this one
+	**** only list values that deviate from the built-in values.
+	**** Items values must observe XML encoding for double quote (&quot;),
+	**** ampersand (&amp;), and angle brackets (&lt; and &gt;).
+	-->
+
+	<Scheme
+		name="_builtin_"
+		ToolPaletteVisible="1"
+		TransparentColor="ffffff"
+		ColorRevision10="ff0000"
+		layoutMode="1"
+		CursorBlink="1"
+		KeyBindingsCycle="0"
+		UseGlyphShapingForHebrew="0"
+		NoMACinUUID="0"
+		AlwaysPromptEncoding="0"
+		ColorShowPara="7f7f7f"
+		MenuLayouts="Main"
+		ColorHdrFtr="000000"
+		AutoLoadPlugins="1"
+		ColorRevision1="ab04fe"
+		ColorRevision4="9eb345"
+		ZoomType="Width"
+		ChangeLangWithKeyboard="0"
+		SaveContextGlyphs="0"
+		OptionsTabNumber="0"
+		SpellCheckNumbers="1"
+		ColorRevision5="0fb305"
+		OuterQuoteStyle="0"
+		InsertMode="1"
+		ColorRevision2="ab1477"
+		ColorRevision6="08b3f8"
+		ColorHyperLink="0000ff"
+		StatusBarVisible="1"
+		/>
+
+	<Scheme
+		name="_custom_"
+		ZoomPercentage="86"
+		/>
+
+	<Recent
+		max="9"
+		/>
+
+	<Geometry
+		width="760"
+		height="520"
+		posx="0"
+		posy="0"
+		flags="0"
+		/>
+
+	<Log>
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/babelfish.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/babelfish.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/bmp.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/bmp.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/clarisworks.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/clarisworks.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/command.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/command.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/docbook.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/docbook.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/eml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/eml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/epub.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/epub.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/freetranslation.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/freetranslation.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/garble.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/garble.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/gdict.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/gdict.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/gimp.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/gimp.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/goffice.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/goffice.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/google.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/google.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/hancom.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/hancom.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/hrtext.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/hrtext.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/iscii.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/iscii.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/kword.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/kword.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/latex.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/latex.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/loadbindings.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/loadbindings.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/mif.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/mif.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/mswrite.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/mswrite.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/openwriter.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/openwriter.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/openxml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/openxml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/opml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/opml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/passepartout.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/passepartout.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/pdb.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/pdb.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/pdf.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/pdf.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/presentation.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/presentation.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/s5.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/s5.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/sdw.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/sdw.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/t602.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/t602.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/urldict.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/urldict.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/wikipedia.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/wikipedia.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/wml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/wml.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/xslfo.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/xslfo.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L104): loading /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/applix.so -->
+	<!-- [Sun May 18 12:32:27 2025] message: XAP_ModuleManager::loadModule - (L189): success /data/data/com.termux/files/usr/lib/abiword-3.0/plugins/applix.so -->
+	</Log>
+
+	<Fonts include="0">
+	<!--
+	     Here you can put a list of fonts to limit the fonts that appear 
+	     in the font UI:
+
+		<Face name="some face"/>
+
+	     The include attribute of 'Fonts' controls the significance of 
+	     the list:
+	     include="1" - limit fonts to those listed
+	     include="0" - exclude the listed fonts from the system font list
+	-->
+	</Fonts>
+
+</AbiPreferences>

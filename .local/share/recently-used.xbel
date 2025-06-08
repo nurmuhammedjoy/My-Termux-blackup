@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/i3/config" added="2025-05-04T05:29:35.470141Z" modified="2025-06-07T16:38:04.170630Z" visited="2025-05-04T05:29:35.470152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-07T16:38:04.170625Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/backup-public/Wellpaper/%7B30%7D.jpg" added="2025-05-10T10:35:21.709498Z" modified="2025-05-10T10:35:21.709510Z" visited="2025-05-10T10:35:21.709501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Xfce Terminal" exec="&apos;xfce4-terminal %u&apos;" modified="2025-05-10T10:35:21.709506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/backup-public/Wellpaper/%7B39%7D.jpg" added="2025-05-10T10:35:48.519610Z" modified="2025-05-10T10:35:48.519624Z" visited="2025-05-10T10:35:48.519614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Xfce Terminal" exec="&apos;xfce4-terminal %u&apos;" modified="2025-05-10T10:35:48.519618Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/backup-public/Wellpaper/%7B42%7D.png" added="2025-05-10T10:36:11.754029Z" modified="2025-05-10T10:36:11.754045Z" visited="2025-05-10T10:36:11.754033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Xfce Terminal" exec="&apos;xfce4-terminal %u&apos;" modified="2025-05-10T10:36:11.754036Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/backup-public/Wellpaper/%7B13%7D.jpg" added="2025-05-10T10:36:18.570358Z" modified="2025-05-10T10:36:18.570374Z" visited="2025-05-10T10:36:18.570363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Xfce Terminal" exec="&apos;xfce4-terminal %u&apos;" modified="2025-05-10T10:36:18.570367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.themes/Gruvbox-Dark-u1145h/index.theme" added="2025-05-10T11:49:58.947926Z" modified="2025-06-08T08:00:59.498299Z" visited="2025-05-10T11:49:58.947929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-theme"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-08T08:00:59.498293Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/gtk-3.0/gtk.css" added="2025-05-23T11:57:47.365799Z" modified="2025-06-08T09:18:13.416653Z" visited="2025-05-23T11:57:47.365801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-08T09:18:13.416649Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/white_dwarf_star.html" added="2025-06-02T06:23:22.745688Z" modified="2025-06-02T06:24:38.004492Z" visited="2025-06-02T06:23:22.745690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-02T06:24:38.004484Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/3d/src/main.js" added="2025-06-03T13:05:15.480609Z" modified="2025-06-03T13:13:43.916247Z" visited="2025-06-03T13:05:15.480612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-03T13:13:43.916243Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/3d/src/style.css" added="2025-06-03T13:13:22.527429Z" modified="2025-06-03T13:13:22.527442Z" visited="2025-06-03T13:13:22.527432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-03T13:13:22.527436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/Downloads/1369866.png" added="2025-06-07T07:52:37.500502Z" modified="2025-06-07T07:52:37.500528Z" visited="2025-06-07T07:52:37.500506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-default %u&apos;" modified="2025-06-07T07:52:37.500515Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/Downloads" added="2025-06-07T07:53:04.926066Z" modified="2025-06-07T07:53:42.538030Z" visited="2025-06-07T07:53:04.926068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2025-06-07T07:53:42.538025Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/gtk-3.0/settings.ini" added="2025-06-08T07:22:51.849898Z" modified="2025-06-08T07:22:51.849907Z" visited="2025-06-08T07:22:51.849901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-08T07:22:51.849903Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/Vimix-Black.tar.xz" added="2025-06-08T07:41:27.964687Z" modified="2025-06-08T07:41:27.964696Z" visited="2025-06-08T07:41:27.964690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2025-06-08T07:41:27.964692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
