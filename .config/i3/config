@@ -1,6 +1,25 @@
 # Main
 set $mod Mod1
 
+# Play / Pause
+bindsym $mod+Shift+p exec --no-startup-id mpc toggle
+
+# Next track
+bindsym $mod+Shift+n exec --no-startup-id mpc next
+
+# Previous track
+bindsym $mod+Shift+b exec --no-startup-id mpc prev
+
+# Volume up/down
+#bindsym XF86AudioRaiseVolume exec --no-startup-id mpc volume +5
+#bindsym XF86AudioLowerVolume exec --no-startup-id mpc volume -5
+
+# Stop playback
+bindsym $mod+Shift+s exec --no-startup-id mpc stop
+
+# Show current song in notification
+bindsym $mod+Shift+i exec --no-startup-id notify-send "Now Playing" "$(mpc current)"
+
 exec_always --no-startup-id wal -n -l --theme ~/.config/wal/colors-mytheme.json
 
 gaps inner 6
