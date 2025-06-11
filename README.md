@@ -20,5 +20,5 @@ A minimal and efficient i3 window manager configuration designed to run natively
 
 ---
 
-## 📁 Folder Structure
+
 
