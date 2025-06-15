@@ -1,0 +1,639 @@
+2025-06-08T19:56:42 exception: Failed to open "/data/data/com.termux/files/home/.config/mpd/state": No such file or directory
+2025-06-08T19:56:42 exception: Failed to access /data/data/com.termux/files/home/music: No such file or directory
+2025-06-08T20:10:35 update: added /Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+2025-06-08T20:10:35 update: added /Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+2025-06-08T20:10:35 update: added /Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+2025-06-08T20:10:35 update: added /N3WPORT - Power (feat. braev) [NCS Release].mp3
+2025-06-08T20:10:35 update: added /NEFFEX - Grateful [Copyright Free].mp3
+2025-06-08T20:13:02 player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+2025-06-08T20:16:44 player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+2025-06-09T18:07:38 player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+2025-06-09T18:22:26 player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+2025-06-09T19:42:12 exception: Failed to decode "/data/data/com.termux/files/home/music/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"; Failed to open "/data/data/com.termux/files/home/music/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3": No such file or directory
+2025-06-09T19:42:12 player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+2025-06-09T19:42:50 update: added Music/001 - Master Of Puppets (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/002 - Metal Militia (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/003 - Seek & Destroy (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/004 - No Remorse (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/005 - Phantom Lord (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/006 - Whiplash (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/007 - [Anesthesia] --Pulling Teeth (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/008 - Jump In The Fire (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/009 - Motorbreath (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/010 - The Four Horsemen (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/011 - Hit The Lights (Remastered).mp3
+2025-06-09T19:42:50 update: added Music/012 - Warfaze-Dhup Chaya.mp3
+2025-06-09T19:42:50 update: added Music/013 - Jodi Konodin.mp3
+2025-06-09T19:42:50 update: added Music/014 - Pothchola ｜ Warfaze ｜ Full Album ｜ Audio Jukebox.mp3
+2025-06-09T19:42:50 update: added Music/015 - Pink Floyd - Time (2023 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/016 - Pink Floyd - On The Run (2023 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/017 - Pink Floyd - Breathe (In The Air) (2023 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/018 - Pink Floyd - Speak To Me (2023 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/019 - Ostitter Dike Pododdhonir Shommohon ｜ অস্তিত্বের দিকে পদধ্বনির সম্মোহন ｜ Artcell ｜ Agontuk.mp3
+2025-06-09T19:42:50 update: added Music/020 - Pothchola ｜ পথচলা ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/021 - Pothchola ｜ পথচলা ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/022 - Gontobbohin ｜ গন্তব্যহীন ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/023 - Itihash (Shomoy Odrishto) ｜ ইতিহাস ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/025 - Mukhosh ｜ মুখোশ ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/043 - Hoongkar.mp3
+2025-06-09T19:42:50 update: added Music/024 - Oniket Prantor ｜ অনিকেত প্রান্তর ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/026 - Mukhosh ｜ মুখোশ ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:42:50 update: added Music/027 - Smriti Sharok ｜ স্মৃতি স্মারক ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/028 - Smriti Sharok ｜ স্মৃতি স্মারক ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/029 - Leen ｜ লীন ｜ Artcell ｜ Iqbal Asif Jewel ｜ Oniket Prantor ｜ Bangla Band Song ｜ G Series ｜ Agniveena.mp3
+2025-06-09T19:42:50 update: added Music/030 - Rahur Grash ｜｜ রাহুর গ্রাস ｜｜ Artcell ｜｜ Onno Shomoy ｜｜ Original Track ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/031 - Onnosomoy ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:42:50 update: added Music/032 - Onnosomoy ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:42:50 update: added Music/033 - Leen ｜ Artcell Band ｜ Album Oniket Prantor ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/034 - Leen ｜ Artcell Band ｜ Album Oniket Prantor ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/035 - Onnosomoy ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Art Track.mp3
+2025-06-09T19:42:50 update: added Music/036 - Bhul Jonmo ｜  by Artcell ｜ Album Onnosomoy ｜ Official Art Track.mp3
+2025-06-09T19:42:50 update: added Music/037 - Bangladesh Shriti O Amra ｜ Artcell Band ｜ Album Agontuk 3 ｜ Official Music Video.mp3
+2025-06-09T19:42:50 update: added Music/038 - Ashirbad ｜ Artcell, Black, Cryptic Fate ｜ Bangla Band Song ｜ Official Lyrical Video 2018.mp3
+2025-06-09T19:42:50 update: added Music/040 - Opshori ｜ অপ্সরী ｜ Artcell ｜ Anushilon ｜ Original Track ｜@G Series World Music.mp3
+2025-06-09T19:42:50 update: added Music/176 - Notion.mp3
+2025-06-09T19:42:50 update: added Music/041 - Artcell - Obhoy (Official Lyric Video).mp3
+2025-06-09T19:42:50 update: added Music/048 - Ure Chole Jay ｜ উড়ে চলে যায় ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/049 - Amar Shongbidhan ｜ আমার সংবিধান ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/050 - Obosh Onuvutir Deyal ｜｜ অবশ অনুভুতির দেয়াল ｜｜ Artcell ｜｜ Onno Shomoy ｜｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/051 - Ashar Prodip Jele ｜ আশার প্রদীপ জ্বেলে ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/052 - Sesher Opase ｜ শেষের ওপাশে ｜ Vibe ｜ Chena Jogot  ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/053 - Vibe _ Shesher Opashe (On The Other Side) - Bangladeshi Band.mp3
+2025-06-09T19:42:50 update: added Music/055 - Shironamhin ｜ Ei Obelay ｜ Official Music Video.mp3
+2025-06-09T19:42:50 update: added Music/066 - Blues & Rod ｜ Black ｜ All Time Hit Bangla Band Song ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/056 - Oniket Prantor ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:42:50 update: added Music/061 - Chile Kothar Shepai ｜ চিলে কোঠার সেপাই ｜ Artcell ｜ Agontuk 2 ｜ Original Track ｜@G Series World Music.mp3
+2025-06-09T19:42:50 update: added Music/062 - Karar Oi Loho Kopat ｜ Artcell Band ｜ Album Riotous 14 ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/063 - Ishshoronio ｜ ঈশ্বরনীয় ｜ Icons ｜ Ishshoronio Album ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/068 - Vibe _ Atripto Pran (Unsatisfied Soul) - Bangladeshi Band.mp3
+2025-06-09T19:42:50 update: added Music/074 - Vibe-Bidhatari Ronge Aka(Lyrics Video).mp3
+2025-06-09T19:42:50 update: added Music/088 - Warfaze-Projonmo.mp3
+2025-06-09T19:42:50 update: added Music/113 - Stan.mp3
+2025-06-09T19:42:50 update: added Music/078 - AFTERMATH - ONNOGAAN (LYRICS VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/079 - AFTERMATH - UTHSHORGO (LYRICS VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/084 - Warfaze- Moharaj ( Mizan on vocals ).mp3
+2025-06-09T19:42:50 update: added Music/148 - Stan.mp3
+2025-06-09T19:42:50 update: added Music/080 - Dhushor Shomoy ｜｜ ধূসর সময় ｜｜ Artcell ｜｜ Oniket Prantor ｜｜ Bangla Band Song ｜｜ @G Series World Music.mp3
+2025-06-09T19:42:50 update: added Music/082 - Omanush ｜｜ অমানুষ ｜｜ Arbovirus ｜｜ 64m 53s  ｜｜ Bangla Band Song ｜ All Time Hit ｜@G Series World Music.mp3
+2025-06-09T19:42:50 update: added Music/083 - Chena Jogot ｜｜ চেনা জগৎ ｜｜ Vibe ｜｜ Chena Jogot  ｜｜ Original Track ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/085 - Shironamhin ｜ Swadesh (Official Music Video) ｜ #bangla Song.mp3
+2025-06-09T19:42:50 update: added Music/086 - Odhora ｜｜ অধরা ｜｜ Vibe ｜｜ Chena Jogot  ｜｜ Original Track ｜｜ @G Series World Music.mp3
+2025-06-09T19:42:50 update: added Music/093 - Warfaze-Protikkha.mp3
+2025-06-09T19:42:50 update: added Music/094 - Warfaze-Joto Durey.mp3
+2025-06-09T19:42:50 update: added Music/097 - Dukkho Bilash ｜ দুঃখ বিলাশ ｜ Artcell ｜.mp3
+2025-06-09T19:42:50 update: added Music/100 - AFTERMATH - ODHIKAR (OFFICIAL LYRICS VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/104 - Oporanho --- Icons.mp3
+2025-06-09T19:42:50 update: added Music/105 - Enter Sandman, Metallica with 1.000 musicians ｜ São Paulo 2022.mp3
+2025-06-09T19:42:50 update: added Music/107 - Naa l Oni Hasan Featuring l Mizan l Dhaka Live Concert l 2024.mp3
+2025-06-09T19:42:50 update: added Music/108 - In Da Club.mp3
+2025-06-09T19:42:50 update: added Music/110 - Without Me.mp3
+2025-06-09T19:42:50 update: added Music/112 - Berlin - Take My Breath Away (Official Video - Top Gun).mp3
+2025-06-09T19:42:50 update: added Music/114 - Not Afraid.mp3
+2025-06-09T19:42:50 update: added Music/115 - Mockingbird.mp3
+2025-06-09T19:42:50 update: added Music/117 - Godzilla.mp3
+2025-06-09T19:42:50 update: added Music/118 - Projonmo 2012.mp3
+2025-06-09T19:42:50 update: added Music/120 - I Want to Know What Love Is.mp3
+2025-06-09T19:42:50 update: added Music/124 - Warfaze-Hotasha.mp3
+2025-06-09T19:42:50 update: added Music/125 - Warfaze-Obak Bhalobasha.mp3
+2025-06-09T19:42:50 update: added Music/129 - There Is a Light That Never Goes Out (2011 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/130 - Till I Collapse.mp3
+2025-06-09T19:42:50 update: added Music/131 - Sparkle - movie ver..mp3
+2025-06-09T19:42:50 update: added Music/132 - Love The Way You Lie.mp3
+2025-06-09T19:42:50 update: added Music/137 - Beautiful.mp3
+2025-06-09T19:42:50 update: added Music/134 - No. 1 Party Anthem.mp3
+2025-06-09T19:42:50 update: added Music/135 - アイドル.mp3
+2025-06-09T19:42:50 update: added Music/156 - Hope.mp3
+2025-06-09T19:42:50 update: added Music/039 - Shahid Shoroni ｜｜ শহীদ স্মরণী ｜｜ Oniket Prantor ｜｜ Bangla Band Song ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/044 - Odhikar.mp3
+2025-06-09T19:42:50 update: added Music/045 - Tumi.mp3
+2025-06-09T19:42:50 update: added Music/060 - Priyotoma.mp3
+2025-06-09T19:42:50 update: added Music/065 - Tribute to Ayub Bachchu & LRB ｜ Hallucination.mp3
+2025-06-09T19:42:50 update: added Music/042 - Odekha Shorgo ｜ অদেখা স্বর্গ  ｜ Artcell ｜ Chharpotro (2001) ｜ Original Track ｜@gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/046 - Bidhatari Ronge Aaka ｜ বিধাতারই রঙে আঁকা ｜ Vibe ｜ Chena Jogot  ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/047 - Mone Pore  ｜ মনে পড়ে ｜  Vibe ｜ Chena Jogot ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/054 - Tomake  ｜ তোমাকে ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @G Series World Music.mp3
+2025-06-09T19:42:50 update: added Music/057 - Bhul Jonmo ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/059 - Poth Chola ｜ পথ চলা ｜ Artcell Band ｜ Album Onnosomoy ｜ Bangla New Song ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/138 - 505.mp3
+2025-06-09T19:42:50 update: added Music/058 - Utshober Utshahe ｜ উৎসবের উৎসাহে ｜ Artcell ｜ Underground (Band Mixed Album) ｜ Original Track.mp3
+2025-06-09T19:42:50 update: added Music/064 - Chena Jogot ｜ Vibe ｜ Bangla Band Song ｜ Full Album ｜ Audio Jukebox.mp3
+2025-06-09T19:42:50 update: added Music/067 - Mone Pore - Vibe.mp3
+2025-06-09T19:42:50 update: added Music/070 - Shuddho Fuad Sadi (VIBE) - Nirob Michile (Official Lyric Video).mp3
+2025-06-09T19:42:50 update: added Music/194 - Moho.mp3
+2025-06-09T19:42:50 update: added Music/069 - Ure Chole Jai By Vibe ｜ Album Chena Jogot ｜ Official lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/071 - Vibe - Nostalgia (Bangla).mp3
+2025-06-09T19:42:50 update: added Music/072 - Vibe - Dure Dure(Ure Chole).mp3
+2025-06-09T19:42:50 update: added Music/073 - Durey Durey ｜ দূরে দূরে ｜ Vibe ｜ Agontuk ｜ Band Mixed Album ｜ Music Video.mp3
+2025-06-09T19:42:50 update: added Music/075 - AFTERMATH - DHOA (LYRICS VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/081 - Minerva - 04 - Jaatra [HD].mp3
+2025-06-09T19:42:50 update: added Music/076 - Vibe - Shopnodev Lyrics.mp3
+2025-06-09T19:42:50 update: added Music/077 - Obinoy ｜ অবিনয় ｜ Icons  ｜ Agontuk 3 ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:42:50 update: added Music/092 - Warfaze-Asha.mp3
+2025-06-09T19:42:50 update: added Music/195 - Agami.mp3
+2025-06-09T19:42:50 update: added Music/087 - Warfaze-Tribute To Banglalink.mp3
+2025-06-09T19:42:50 update: added Music/089 - Warfaze-Jonosrot.mp3
+2025-06-09T19:42:50 update: added Music/090 - Abhomaan By Black ｜ Album Abar ｜ Official lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/091 - Tumi Ki Shara Dibe ｜ Black ｜ Album Rock 202 ｜ Official lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/095 - AFTERMATH - TUMI (LYRICS VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/106 - Tomake Chara ｜ Oni Hasan ft. Mizan Rahman ｜ (Official Music Video).mp3
+2025-06-09T19:42:50 update: added Music/096 - Onnosomoy ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/099 - Dukkho Bilash ｜ দুঃখ বিলাস ｜ Artcell ｜ Anushilon ｜ Coordinated by Isha Khan Duray.mp3
+2025-06-09T19:42:50 update: added Music/098 - 𝐒𝐡𝐫𝐢𝐧𝐞 𝐑𝐞𝐯𝐢𝐬𝐢𝐭𝐞𝐝 ｜ Oni Hasan live at Rock N Rhythm 4.0 ： Resurrection of Black.mp3
+2025-06-09T19:42:50 update: added Music/101 - TAARAI TAARAI - NAGARBAUL JAMES with TAPOSH & FRIENDS ： ROBI YONDER MUSIC WIND OF CHANGE [ PS：02 ].mp3
+2025-06-09T19:42:50 update: added Music/102 - Oniket Prantor ｜｜ অনিকেত প্রান্তর ｜｜ Artcell ｜｜ Bangla New Band Song ｜｜ Official Lyrical Video.mp3
+2025-06-09T19:42:50 update: added Music/109 - Write This Down (feat. Nieve).mp3
+2025-06-09T19:42:50 update: added Music/111 - Guillaumdot - pixelisé (produit par Sagun).mp3
+2025-06-09T19:42:50 update: added Music/116 - Lose Yourself.mp3
+2025-06-09T19:42:50 update: added Music/103 - Shopnodeb ｜｜ স্বপ্নদেব ｜｜ Vibe ｜｜ Bangla Band Song ｜｜ All Time Hit ｜｜ G Series ｜｜ Agniveena.mp3
+2025-06-09T19:42:50 update: added Music/119 - Jadukar.mp3
+2025-06-09T19:42:50 update: added Music/123 - Protikkha.mp3
+2025-06-09T19:42:50 update: added Music/133 - I Want to Know What Love Is (1999 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/147 - timmies - loosing interest (ft. shiloh).mp3
+2025-06-09T19:42:50 update: added Music/143 - XXXTENTACION - SAD! (Official Music Video).mp3
+2025-06-09T19:42:50 update: added Music/152 - XXXTENTACION - Revenge (Audio).mp3
+2025-06-09T19:42:50 update: added Music/155 - Moonlight.mp3
+2025-06-09T19:42:50 update: added Music/163 - JVKE - this is what falling in love feels like (Official Video).mp3
+2025-06-09T19:42:50 update: added Music/204 - Mayabee.mp3
+2025-06-09T19:42:50 update: added Music/171 - Everybody Wants To Rule The World.mp3
+2025-06-09T19:42:50 update: added Music/181 - Passenger ｜ Let Her Go (Official Video).mp3
+2025-06-09T19:42:50 update: added Music/183 - Eminem - Mockingbird [Official Music Video].mp3
+2025-06-09T19:42:50 update: added Music/187 - David Kushner - Daylight (Official Music Video).mp3
+2025-06-09T19:42:50 update: added Music/191 - Warfaze-Shotto.mp3
+2025-06-09T19:42:50 update: added Music/199 - Lana Del Rey - Summertime Sadness (Official Music Video).mp3
+2025-06-09T19:42:50 update: added Music/200 - Fun.： We Are Young ft. Janelle Monáe [OFFICIAL VIDEO].mp3
+2025-06-09T19:42:50 update: added Music/126 - Warfaze-Tomake.mp3
+2025-06-09T19:42:50 update: added Music/136 - California Dreamin'.mp3
+2025-06-09T19:42:50 update: added Music/154 - Look At Me!.mp3
+2025-06-09T19:42:50 update: added Music/158 - Jocelyn Flores.mp3
+2025-06-09T19:42:50 update: added Music/139 - Another Day in Paradise (2016 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/159 - Revenge.mp3
+2025-06-09T19:42:50 update: added Music/168 - Utshorgo.mp3
+2025-06-09T19:42:50 update: added Music/162 - Forever Young (2019 Remaster).mp3
+2025-06-09T19:42:50 update: added Music/167 - JVKE - golden hour (official music video).mp3
+2025-06-09T19:42:50 update: added Music/164 - Tom Odell - Can't Pretend (at Dean Street Studios).mp3
+2025-06-09T19:42:50 update: added Music/172 - Obak Bhalobasha ｜ Coke Studio Bangla.mp3
+2025-06-09T19:42:50 update: added Music/170 - SiM – The Rumbling (OFFICIAL VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/173 - Stephen Sanchez - Until I Found You (Official Video).mp3
+2025-06-09T19:42:50 update: added Music/178 - Purnota.mp3
+2025-06-09T19:42:50 update: added Music/192 - Head Over Heels (Dave Bascombe 7＂ N.Mix).mp3
+2025-06-09T19:42:50 update: added Music/189 - AFTERMATH l MATIR ROUD (OFFICIAL MUSIC VIDEO).mp3
+2025-06-09T19:42:50 update: added Music/197 - Warfaze-Je Din.mp3
+2025-06-09T19:42:50 update: added Music/202 - Warfaze-Na.mp3
+2025-06-09T19:42:50 update: added Music/141 - i feel empty (Prod. Kina).mp3
+2025-06-09T19:42:50 update: added Music/145 - timmies & nineteen95 - ugly.mp3
+2025-06-09T19:42:50 update: added Music/149 - Without Me.mp3
+2025-06-09T19:42:50 update: added Music/150 - XXXTENTACION - Everybody Dies In Their Nightmares (Audio).mp3
+2025-06-09T19:42:50 update: added Music/153 - XXXTENTACION - Jocelyn Flores (Audio).mp3
+2025-06-09T19:42:50 update: added Music/161 - Katy Perry - The One That Got Away (Official Music Video).mp3
+2025-06-09T19:42:50 update: added Music/174 - AURORA - Runaway.mp3
+2025-06-09T19:42:50 update: added Music/175 - Tom Odell - Another Love (Official Video).mp3
+2025-06-09T19:42:50 update: added Music/177 - Dhoa.mp3
+2025-06-09T19:42:50 update: added Music/179 - I Wanna Be Yours.mp3
+2025-06-09T19:42:50 update: added Music/180 - E Hawa ｜ Meghdol X Hawa Film ｜ Aluminium Er Dana.mp3
+2025-06-09T19:42:50 update: added Music/184 - Tom Odell - I Know (Official Video).mp3
+2025-06-09T19:42:50 update: added Music/196 - Ei Obelay.mp3
+2025-06-09T19:42:50 update: added Music/198 - E Hawa.mp3
+2025-06-09T19:42:50 update: added Music/203 - Warfaze-Oshamajik.mp3
+2025-06-09T19:42:50 update: added Music/201 - Little Dark Age.mp3
+2025-06-09T19:42:50 update: added Music/122 - Suzume (feat. Toaka).mp3
+2025-06-09T19:42:50 update: added Music/127 - Warfaze-Boshe Achi.mp3
+2025-06-09T19:42:50 update: added Music/128 - Warfaze-Rupkotha.mp3
+2025-06-09T19:42:50 update: added Music/140 - The Real Slim Shady.mp3
+2025-06-09T19:42:50 update: added Music/157 - changes.mp3
+2025-06-09T19:42:50 update: added Music/142 - Sing For The Moment.mp3
+2025-06-09T19:42:50 update: added Music/144 - timmies - soft skin (ft. shiloh).mp3
+2025-06-09T19:42:50 update: added Music/146 - timmies - you are loving (ft. shiloh).mp3
+2025-06-09T19:42:50 update: added Music/160 - Do I Wanna Know？.mp3
+2025-06-09T19:42:50 update: added Music/165 - Rihanna - Diamonds.mp3
+2025-06-09T19:42:50 update: added Music/166 - Tom Odell - Can't Pretend (Official Audio).mp3
+2025-06-09T19:42:50 update: added Music/169 - Adele - Skyfall (Official Lyric Video).mp3
+2025-06-09T19:42:50 update: added Music/185 - Avash ｜ Avash ｜ Official Video.mp3
+2025-06-09T19:42:50 update: added Music/182 - Hozier - Take Me To Church.mp3
+2025-06-09T19:42:50 update: added Music/186 - Call of Silence.mp3
+2025-06-09T19:42:50 update: added Music/188 - 悪魔の子.mp3
+2025-06-09T19:42:50 update: added Music/190 - Jonosrot.mp3
+2025-06-09T19:42:50 update: added Music/193 - After Dark.mp3
+2025-06-09T19:42:50 update: added Music/205 - Matir Roud.mp3
+2025-06-09T19:42:50 update: removing NEFFEX - Grateful [Copyright Free].mp3
+2025-06-09T19:42:50 update: removing N3WPORT - Power (feat. braev) [NCS Release].mp3
+2025-06-09T19:42:50 update: removing Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+2025-06-09T19:42:50 update: removing Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+2025-06-09T19:42:50 update: removing Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+2025-06-09T19:47:31 exception: No such directory
+2025-06-09T19:47:34 exception: No such directory
+2025-06-09T19:48:00 exception: No such directory
+2025-06-09T19:50:36 exception: No such directory
+2025-06-09T19:51:09 exception: No such directory
+2025-06-09T19:53:18 update: removing Music/001 - Master Of Puppets (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/205 - Matir Roud.mp3
+2025-06-09T19:53:18 update: removing Music/204 - Mayabee.mp3
+2025-06-09T19:53:18 update: removing Music/203 - Warfaze-Oshamajik.mp3
+2025-06-09T19:53:18 update: removing Music/202 - Warfaze-Na.mp3
+2025-06-09T19:53:18 update: removing Music/201 - Little Dark Age.mp3
+2025-06-09T19:53:18 update: removing Music/200 - Fun.： We Are Young ft. Janelle Monáe [OFFICIAL VIDEO].mp3
+2025-06-09T19:53:18 update: removing Music/199 - Lana Del Rey - Summertime Sadness (Official Music Video).mp3
+2025-06-09T19:53:18 update: removing Music/198 - E Hawa.mp3
+2025-06-09T19:53:18 update: removing Music/197 - Warfaze-Je Din.mp3
+2025-06-09T19:53:18 update: removing Music/196 - Ei Obelay.mp3
+2025-06-09T19:53:18 update: removing Music/195 - Agami.mp3
+2025-06-09T19:53:18 update: removing Music/194 - Moho.mp3
+2025-06-09T19:53:18 update: removing Music/193 - After Dark.mp3
+2025-06-09T19:53:18 update: removing Music/192 - Head Over Heels (Dave Bascombe 7＂ N.Mix).mp3
+2025-06-09T19:53:18 update: removing Music/191 - Warfaze-Shotto.mp3
+2025-06-09T19:53:18 update: removing Music/190 - Jonosrot.mp3
+2025-06-09T19:53:18 update: removing Music/189 - AFTERMATH l MATIR ROUD (OFFICIAL MUSIC VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/188 - 悪魔の子.mp3
+2025-06-09T19:53:18 update: removing Music/187 - David Kushner - Daylight (Official Music Video).mp3
+2025-06-09T19:53:18 update: removing Music/186 - Call of Silence.mp3
+2025-06-09T19:53:18 update: removing Music/185 - Avash ｜ Avash ｜ Official Video.mp3
+2025-06-09T19:53:18 update: removing Music/184 - Tom Odell - I Know (Official Video).mp3
+2025-06-09T19:53:18 update: removing Music/183 - Eminem - Mockingbird [Official Music Video].mp3
+2025-06-09T19:53:18 update: removing Music/182 - Hozier - Take Me To Church.mp3
+2025-06-09T19:53:18 update: removing Music/181 - Passenger ｜ Let Her Go (Official Video).mp3
+2025-06-09T19:53:18 update: removing Music/180 - E Hawa ｜ Meghdol X Hawa Film ｜ Aluminium Er Dana.mp3
+2025-06-09T19:53:18 update: removing Music/179 - I Wanna Be Yours.mp3
+2025-06-09T19:53:18 update: removing Music/178 - Purnota.mp3
+2025-06-09T19:53:18 update: removing Music/177 - Dhoa.mp3
+2025-06-09T19:53:18 update: removing Music/176 - Notion.mp3
+2025-06-09T19:53:18 update: removing Music/175 - Tom Odell - Another Love (Official Video).mp3
+2025-06-09T19:53:18 update: removing Music/174 - AURORA - Runaway.mp3
+2025-06-09T19:53:18 update: removing Music/173 - Stephen Sanchez - Until I Found You (Official Video).mp3
+2025-06-09T19:53:18 update: removing Music/172 - Obak Bhalobasha ｜ Coke Studio Bangla.mp3
+2025-06-09T19:53:18 update: removing Music/171 - Everybody Wants To Rule The World.mp3
+2025-06-09T19:53:18 update: removing Music/170 - SiM – The Rumbling (OFFICIAL VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/169 - Adele - Skyfall (Official Lyric Video).mp3
+2025-06-09T19:53:18 update: removing Music/168 - Utshorgo.mp3
+2025-06-09T19:53:18 update: removing Music/167 - JVKE - golden hour (official music video).mp3
+2025-06-09T19:53:18 update: removing Music/166 - Tom Odell - Can't Pretend (Official Audio).mp3
+2025-06-09T19:53:18 update: removing Music/165 - Rihanna - Diamonds.mp3
+2025-06-09T19:53:18 update: removing Music/164 - Tom Odell - Can't Pretend (at Dean Street Studios).mp3
+2025-06-09T19:53:18 update: removing Music/163 - JVKE - this is what falling in love feels like (Official Video).mp3
+2025-06-09T19:53:18 update: removing Music/162 - Forever Young (2019 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/161 - Katy Perry - The One That Got Away (Official Music Video).mp3
+2025-06-09T19:53:18 update: removing Music/160 - Do I Wanna Know？.mp3
+2025-06-09T19:53:18 update: removing Music/159 - Revenge.mp3
+2025-06-09T19:53:18 update: removing Music/158 - Jocelyn Flores.mp3
+2025-06-09T19:53:18 update: removing Music/157 - changes.mp3
+2025-06-09T19:53:18 update: removing Music/156 - Hope.mp3
+2025-06-09T19:53:18 update: removing Music/155 - Moonlight.mp3
+2025-06-09T19:53:18 update: removing Music/154 - Look At Me!.mp3
+2025-06-09T19:53:18 update: removing Music/153 - XXXTENTACION - Jocelyn Flores (Audio).mp3
+2025-06-09T19:53:18 update: removing Music/152 - XXXTENTACION - Revenge (Audio).mp3
+2025-06-09T19:53:18 update: removing Music/150 - XXXTENTACION - Everybody Dies In Their Nightmares (Audio).mp3
+2025-06-09T19:53:18 update: removing Music/149 - Without Me.mp3
+2025-06-09T19:53:18 update: removing Music/148 - Stan.mp3
+2025-06-09T19:53:18 update: removing Music/147 - timmies - loosing interest (ft. shiloh).mp3
+2025-06-09T19:53:18 update: removing Music/146 - timmies - you are loving (ft. shiloh).mp3
+2025-06-09T19:53:18 update: removing Music/145 - timmies & nineteen95 - ugly.mp3
+2025-06-09T19:53:18 update: removing Music/144 - timmies - soft skin (ft. shiloh).mp3
+2025-06-09T19:53:18 update: removing Music/143 - XXXTENTACION - SAD! (Official Music Video).mp3
+2025-06-09T19:53:18 update: removing Music/142 - Sing For The Moment.mp3
+2025-06-09T19:53:18 update: removing Music/141 - i feel empty (Prod. Kina).mp3
+2025-06-09T19:53:18 update: removing Music/140 - The Real Slim Shady.mp3
+2025-06-09T19:53:18 update: removing Music/139 - Another Day in Paradise (2016 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/138 - 505.mp3
+2025-06-09T19:53:18 update: removing Music/137 - Beautiful.mp3
+2025-06-09T19:53:18 update: removing Music/136 - California Dreamin'.mp3
+2025-06-09T19:53:18 update: removing Music/135 - アイドル.mp3
+2025-06-09T19:53:18 update: removing Music/134 - No. 1 Party Anthem.mp3
+2025-06-09T19:53:18 update: removing Music/133 - I Want to Know What Love Is (1999 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/132 - Love The Way You Lie.mp3
+2025-06-09T19:53:18 update: removing Music/131 - Sparkle - movie ver..mp3
+2025-06-09T19:53:18 update: removing Music/130 - Till I Collapse.mp3
+2025-06-09T19:53:18 update: removing Music/129 - There Is a Light That Never Goes Out (2011 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/128 - Warfaze-Rupkotha.mp3
+2025-06-09T19:53:18 update: removing Music/127 - Warfaze-Boshe Achi.mp3
+2025-06-09T19:53:18 update: removing Music/126 - Warfaze-Tomake.mp3
+2025-06-09T19:53:18 update: removing Music/125 - Warfaze-Obak Bhalobasha.mp3
+2025-06-09T19:53:18 update: removing Music/124 - Warfaze-Hotasha.mp3
+2025-06-09T19:53:18 update: removing Music/123 - Protikkha.mp3
+2025-06-09T19:53:18 update: removing Music/122 - Suzume (feat. Toaka).mp3
+2025-06-09T19:53:18 update: removing Music/120 - I Want to Know What Love Is.mp3
+2025-06-09T19:53:18 update: removing Music/119 - Jadukar.mp3
+2025-06-09T19:53:18 update: removing Music/118 - Projonmo 2012.mp3
+2025-06-09T19:53:18 update: removing Music/117 - Godzilla.mp3
+2025-06-09T19:53:18 update: removing Music/116 - Lose Yourself.mp3
+2025-06-09T19:53:18 update: removing Music/115 - Mockingbird.mp3
+2025-06-09T19:53:18 update: removing Music/114 - Not Afraid.mp3
+2025-06-09T19:53:18 update: removing Music/113 - Stan.mp3
+2025-06-09T19:53:18 update: removing Music/112 - Berlin - Take My Breath Away (Official Video - Top Gun).mp3
+2025-06-09T19:53:18 update: removing Music/111 - Guillaumdot - pixelisé (produit par Sagun).mp3
+2025-06-09T19:53:18 update: removing Music/110 - Without Me.mp3
+2025-06-09T19:53:18 update: removing Music/109 - Write This Down (feat. Nieve).mp3
+2025-06-09T19:53:18 update: removing Music/108 - In Da Club.mp3
+2025-06-09T19:53:18 update: removing Music/107 - Naa l Oni Hasan Featuring l Mizan l Dhaka Live Concert l 2024.mp3
+2025-06-09T19:53:18 update: removing Music/106 - Tomake Chara ｜ Oni Hasan ft. Mizan Rahman ｜ (Official Music Video).mp3
+2025-06-09T19:53:18 update: removing Music/105 - Enter Sandman, Metallica with 1.000 musicians ｜ São Paulo 2022.mp3
+2025-06-09T19:53:18 update: removing Music/104 - Oporanho --- Icons.mp3
+2025-06-09T19:53:18 update: removing Music/103 - Shopnodeb ｜｜ স্বপ্নদেব ｜｜ Vibe ｜｜ Bangla Band Song ｜｜ All Time Hit ｜｜ G Series ｜｜ Agniveena.mp3
+2025-06-09T19:53:18 update: removing Music/102 - Oniket Prantor ｜｜ অনিকেত প্রান্তর ｜｜ Artcell ｜｜ Bangla New Band Song ｜｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/101 - TAARAI TAARAI - NAGARBAUL JAMES with TAPOSH & FRIENDS ： ROBI YONDER MUSIC WIND OF CHANGE [ PS：02 ].mp3
+2025-06-09T19:53:18 update: removing Music/100 - AFTERMATH - ODHIKAR (OFFICIAL LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/099 - Dukkho Bilash ｜ দুঃখ বিলাস ｜ Artcell ｜ Anushilon ｜ Coordinated by Isha Khan Duray.mp3
+2025-06-09T19:53:18 update: removing Music/098 - 𝐒𝐡𝐫𝐢𝐧𝐞 𝐑𝐞𝐯𝐢𝐬𝐢𝐭𝐞𝐝 ｜ Oni Hasan live at Rock N Rhythm 4.0 ： Resurrection of Black.mp3
+2025-06-09T19:53:18 update: removing Music/097 - Dukkho Bilash ｜ দুঃখ বিলাশ ｜ Artcell ｜.mp3
+2025-06-09T19:53:18 update: removing Music/096 - Onnosomoy ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/095 - AFTERMATH - TUMI (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/094 - Warfaze-Joto Durey.mp3
+2025-06-09T19:53:18 update: removing Music/093 - Warfaze-Protikkha.mp3
+2025-06-09T19:53:18 update: removing Music/092 - Warfaze-Asha.mp3
+2025-06-09T19:53:18 update: removing Music/091 - Tumi Ki Shara Dibe ｜ Black ｜ Album Rock 202 ｜ Official lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/090 - Abhomaan By Black ｜ Album Abar ｜ Official lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/089 - Warfaze-Jonosrot.mp3
+2025-06-09T19:53:18 update: removing Music/088 - Warfaze-Projonmo.mp3
+2025-06-09T19:53:18 update: removing Music/087 - Warfaze-Tribute To Banglalink.mp3
+2025-06-09T19:53:18 update: removing Music/086 - Odhora ｜｜ অধরা ｜｜ Vibe ｜｜ Chena Jogot  ｜｜ Original Track ｜｜ @G Series World Music.mp3
+2025-06-09T19:53:18 update: removing Music/085 - Shironamhin ｜ Swadesh (Official Music Video) ｜ #bangla Song.mp3
+2025-06-09T19:53:18 update: removing Music/084 - Warfaze- Moharaj ( Mizan on vocals ).mp3
+2025-06-09T19:53:18 update: removing Music/083 - Chena Jogot ｜｜ চেনা জগৎ ｜｜ Vibe ｜｜ Chena Jogot  ｜｜ Original Track ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/082 - Omanush ｜｜ অমানুষ ｜｜ Arbovirus ｜｜ 64m 53s  ｜｜ Bangla Band Song ｜ All Time Hit ｜@G Series World Music.mp3
+2025-06-09T19:53:18 update: removing Music/081 - Minerva - 04 - Jaatra [HD].mp3
+2025-06-09T19:53:18 update: removing Music/080 - Dhushor Shomoy ｜｜ ধূসর সময় ｜｜ Artcell ｜｜ Oniket Prantor ｜｜ Bangla Band Song ｜｜ @G Series World Music.mp3
+2025-06-09T19:53:18 update: removing Music/079 - AFTERMATH - UTHSHORGO (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/078 - AFTERMATH - ONNOGAAN (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/077 - Obinoy ｜ অবিনয় ｜ Icons  ｜ Agontuk 3 ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/076 - Vibe - Shopnodev Lyrics.mp3
+2025-06-09T19:53:18 update: removing Music/075 - AFTERMATH - DHOA (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: removing Music/074 - Vibe-Bidhatari Ronge Aka(Lyrics Video).mp3
+2025-06-09T19:53:18 update: removing Music/073 - Durey Durey ｜ দূরে দূরে ｜ Vibe ｜ Agontuk ｜ Band Mixed Album ｜ Music Video.mp3
+2025-06-09T19:53:18 update: removing Music/072 - Vibe - Dure Dure(Ure Chole).mp3
+2025-06-09T19:53:18 update: removing Music/071 - Vibe - Nostalgia (Bangla).mp3
+2025-06-09T19:53:18 update: removing Music/070 - Shuddho Fuad Sadi (VIBE) - Nirob Michile (Official Lyric Video).mp3
+2025-06-09T19:53:18 update: removing Music/069 - Ure Chole Jai By Vibe ｜ Album Chena Jogot ｜ Official lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/068 - Vibe _ Atripto Pran (Unsatisfied Soul) - Bangladeshi Band.mp3
+2025-06-09T19:53:18 update: removing Music/067 - Mone Pore - Vibe.mp3
+2025-06-09T19:53:18 update: removing Music/066 - Blues & Rod ｜ Black ｜ All Time Hit Bangla Band Song ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/065 - Tribute to Ayub Bachchu & LRB ｜ Hallucination.mp3
+2025-06-09T19:53:18 update: removing Music/064 - Chena Jogot ｜ Vibe ｜ Bangla Band Song ｜ Full Album ｜ Audio Jukebox.mp3
+2025-06-09T19:53:18 update: removing Music/063 - Ishshoronio ｜ ঈশ্বরনীয় ｜ Icons ｜ Ishshoronio Album ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/062 - Karar Oi Loho Kopat ｜ Artcell Band ｜ Album Riotous 14 ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/061 - Chile Kothar Shepai ｜ চিলে কোঠার সেপাই ｜ Artcell ｜ Agontuk 2 ｜ Original Track ｜@G Series World Music.mp3
+2025-06-09T19:53:18 update: removing Music/060 - Priyotoma.mp3
+2025-06-09T19:53:18 update: removing Music/059 - Poth Chola ｜ পথ চলা ｜ Artcell Band ｜ Album Onnosomoy ｜ Bangla New Song ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/058 - Utshober Utshahe ｜ উৎসবের উৎসাহে ｜ Artcell ｜ Underground (Band Mixed Album) ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/057 - Bhul Jonmo ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/056 - Oniket Prantor ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:53:18 update: removing Music/055 - Shironamhin ｜ Ei Obelay ｜ Official Music Video.mp3
+2025-06-09T19:53:18 update: removing Music/054 - Tomake  ｜ তোমাকে ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @G Series World Music.mp3
+2025-06-09T19:53:18 update: removing Music/053 - Vibe _ Shesher Opashe (On The Other Side) - Bangladeshi Band.mp3
+2025-06-09T19:53:18 update: removing Music/052 - Sesher Opase ｜ শেষের ওপাশে ｜ Vibe ｜ Chena Jogot  ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/051 - Ashar Prodip Jele ｜ আশার প্রদীপ জ্বেলে ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/050 - Obosh Onuvutir Deyal ｜｜ অবশ অনুভুতির দেয়াল ｜｜ Artcell ｜｜ Onno Shomoy ｜｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/049 - Amar Shongbidhan ｜ আমার সংবিধান ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/048 - Ure Chole Jay ｜ উড়ে চলে যায় ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/047 - Mone Pore  ｜ মনে পড়ে ｜  Vibe ｜ Chena Jogot ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/046 - Bidhatari Ronge Aaka ｜ বিধাতারই রঙে আঁকা ｜ Vibe ｜ Chena Jogot  ｜ Original Track.mp3
+2025-06-09T19:53:18 update: removing Music/045 - Tumi.mp3
+2025-06-09T19:53:18 update: removing Music/044 - Odhikar.mp3
+2025-06-09T19:53:18 update: removing Music/043 - Hoongkar.mp3
+2025-06-09T19:53:18 update: removing Music/042 - Odekha Shorgo ｜ অদেখা স্বর্গ  ｜ Artcell ｜ Chharpotro (2001) ｜ Original Track ｜@gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/041 - Artcell - Obhoy (Official Lyric Video).mp3
+2025-06-09T19:53:18 update: removing Music/040 - Opshori ｜ অপ্সরী ｜ Artcell ｜ Anushilon ｜ Original Track ｜@G Series World Music.mp3
+2025-06-09T19:53:18 update: removing Music/039 - Shahid Shoroni ｜｜ শহীদ স্মরণী ｜｜ Oniket Prantor ｜｜ Bangla Band Song ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/038 - Ashirbad ｜ Artcell, Black, Cryptic Fate ｜ Bangla Band Song ｜ Official Lyrical Video 2018.mp3
+2025-06-09T19:53:18 update: removing Music/037 - Bangladesh Shriti O Amra ｜ Artcell Band ｜ Album Agontuk 3 ｜ Official Music Video.mp3
+2025-06-09T19:53:18 update: removing Music/036 - Bhul Jonmo ｜  by Artcell ｜ Album Onnosomoy ｜ Official Art Track.mp3
+2025-06-09T19:53:18 update: removing Music/035 - Onnosomoy ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Art Track.mp3
+2025-06-09T19:53:18 update: removing Music/034 - Leen ｜ Artcell Band ｜ Album Oniket Prantor ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/033 - Leen ｜ Artcell Band ｜ Album Oniket Prantor ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: removing Music/032 - Onnosomoy ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:53:18 update: removing Music/031 - Onnosomoy ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:53:18 update: removing Music/030 - Rahur Grash ｜｜ রাহুর গ্রাস ｜｜ Artcell ｜｜ Onno Shomoy ｜｜ Original Track ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/029 - Leen ｜ লীন ｜ Artcell ｜ Iqbal Asif Jewel ｜ Oniket Prantor ｜ Bangla Band Song ｜ G Series ｜ Agniveena.mp3
+2025-06-09T19:53:18 update: removing Music/028 - Smriti Sharok ｜ স্মৃতি স্মারক ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/027 - Smriti Sharok ｜ স্মৃতি স্মারক ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: removing Music/026 - Mukhosh ｜ মুখোশ ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/025 - Mukhosh ｜ মুখোশ ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/024 - Oniket Prantor ｜ অনিকেত প্রান্তর ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/023 - Itihash (Shomoy Odrishto) ｜ ইতিহাস ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/022 - Gontobbohin ｜ গন্তব্যহীন ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/021 - Pothchola ｜ পথচলা ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/020 - Pothchola ｜ পথচলা ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: removing Music/019 - Ostitter Dike Pododdhonir Shommohon ｜ অস্তিত্বের দিকে পদধ্বনির সম্মোহন ｜ Artcell ｜ Agontuk.mp3
+2025-06-09T19:53:18 update: removing Music/018 - Pink Floyd - Speak To Me (2023 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/017 - Pink Floyd - Breathe (In The Air) (2023 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/016 - Pink Floyd - On The Run (2023 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/015 - Pink Floyd - Time (2023 Remaster).mp3
+2025-06-09T19:53:18 update: removing Music/014 - Pothchola ｜ Warfaze ｜ Full Album ｜ Audio Jukebox.mp3
+2025-06-09T19:53:18 update: removing Music/013 - Jodi Konodin.mp3
+2025-06-09T19:53:18 update: removing Music/012 - Warfaze-Dhup Chaya.mp3
+2025-06-09T19:53:18 update: removing Music/011 - Hit The Lights (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/010 - The Four Horsemen (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/009 - Motorbreath (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/008 - Jump In The Fire (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/007 - [Anesthesia] --Pulling Teeth (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/006 - Whiplash (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/005 - Phantom Lord (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/004 - No Remorse (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/003 - Seek & Destroy (Remastered).mp3
+2025-06-09T19:53:18 update: removing Music/002 - Metal Militia (Remastered).mp3
+2025-06-09T19:53:18 update: added /001 - Master Of Puppets (Remastered).mp3
+2025-06-09T19:53:18 update: added /002 - Metal Militia (Remastered).mp3
+2025-06-09T19:53:18 update: added /003 - Seek & Destroy (Remastered).mp3
+2025-06-09T19:53:18 update: added /004 - No Remorse (Remastered).mp3
+2025-06-09T19:53:18 update: added /005 - Phantom Lord (Remastered).mp3
+2025-06-09T19:53:18 update: added /006 - Whiplash (Remastered).mp3
+2025-06-09T19:53:18 update: added /007 - [Anesthesia] --Pulling Teeth (Remastered).mp3
+2025-06-09T19:53:18 update: added /008 - Jump In The Fire (Remastered).mp3
+2025-06-09T19:53:18 update: added /009 - Motorbreath (Remastered).mp3
+2025-06-09T19:53:18 update: added /010 - The Four Horsemen (Remastered).mp3
+2025-06-09T19:53:18 update: added /011 - Hit The Lights (Remastered).mp3
+2025-06-09T19:53:18 update: added /012 - Warfaze-Dhup Chaya.mp3
+2025-06-09T19:53:18 update: added /013 - Jodi Konodin.mp3
+2025-06-09T19:53:18 update: added /014 - Pothchola ｜ Warfaze ｜ Full Album ｜ Audio Jukebox.mp3
+2025-06-09T19:53:18 update: added /015 - Pink Floyd - Time (2023 Remaster).mp3
+2025-06-09T19:53:18 update: added /016 - Pink Floyd - On The Run (2023 Remaster).mp3
+2025-06-09T19:53:18 update: added /017 - Pink Floyd - Breathe (In The Air) (2023 Remaster).mp3
+2025-06-09T19:53:18 update: added /018 - Pink Floyd - Speak To Me (2023 Remaster).mp3
+2025-06-09T19:53:18 update: added /019 - Ostitter Dike Pododdhonir Shommohon ｜ অস্তিত্বের দিকে পদধ্বনির সম্মোহন ｜ Artcell ｜ Agontuk.mp3
+2025-06-09T19:53:18 update: added /020 - Pothchola ｜ পথচলা ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /021 - Pothchola ｜ পথচলা ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /022 - Gontobbohin ｜ গন্তব্যহীন ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /023 - Itihash (Shomoy Odrishto) ｜ ইতিহাস ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /025 - Mukhosh ｜ মুখোশ ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /045 - Tumi.mp3
+2025-06-09T19:53:18 update: added /024 - Oniket Prantor ｜ অনিকেত প্রান্তর ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /026 - Mukhosh ｜ মুখোশ ｜ Artcell ｜ Onno Shomoy ｜ Original Track ｜ Bangla Band Song.mp3
+2025-06-09T19:53:18 update: added /027 - Smriti Sharok ｜ স্মৃতি স্মারক ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /028 - Smriti Sharok ｜ স্মৃতি স্মারক ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /029 - Leen ｜ লীন ｜ Artcell ｜ Iqbal Asif Jewel ｜ Oniket Prantor ｜ Bangla Band Song ｜ G Series ｜ Agniveena.mp3
+2025-06-09T19:53:18 update: added /030 - Rahur Grash ｜｜ রাহুর গ্রাস ｜｜ Artcell ｜｜ Onno Shomoy ｜｜ Original Track ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /031 - Onnosomoy ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:53:18 update: added /032 - Onnosomoy ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:53:18 update: added /033 - Leen ｜ Artcell Band ｜ Album Oniket Prantor ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /034 - Leen ｜ Artcell Band ｜ Album Oniket Prantor ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /035 - Onnosomoy ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Art Track.mp3
+2025-06-09T19:53:18 update: added /036 - Bhul Jonmo ｜  by Artcell ｜ Album Onnosomoy ｜ Official Art Track.mp3
+2025-06-09T19:53:18 update: added /037 - Bangladesh Shriti O Amra ｜ Artcell Band ｜ Album Agontuk 3 ｜ Official Music Video.mp3
+2025-06-09T19:53:18 update: added /038 - Ashirbad ｜ Artcell, Black, Cryptic Fate ｜ Bangla Band Song ｜ Official Lyrical Video 2018.mp3
+2025-06-09T19:53:18 update: added /040 - Opshori ｜ অপ্সরী ｜ Artcell ｜ Anushilon ｜ Original Track ｜@G Series World Music.mp3
+2025-06-09T19:53:18 update: added /113 - Stan.mp3
+2025-06-09T19:53:18 update: added /041 - Artcell - Obhoy (Official Lyric Video).mp3
+2025-06-09T19:53:18 update: added /043 - Hoongkar.mp3
+2025-06-09T19:53:18 update: added /050 - Obosh Onuvutir Deyal ｜｜ অবশ অনুভুতির দেয়াল ｜｜ Artcell ｜｜ Onno Shomoy ｜｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /052 - Sesher Opase ｜ শেষের ওপাশে ｜ Vibe ｜ Chena Jogot  ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /053 - Vibe _ Shesher Opashe (On The Other Side) - Bangladeshi Band.mp3
+2025-06-09T19:53:18 update: added /055 - Shironamhin ｜ Ei Obelay ｜ Official Music Video.mp3
+2025-06-09T19:53:18 update: added /058 - Utshober Utshahe ｜ উৎসবের উৎসাহে ｜ Artcell ｜ Underground (Band Mixed Album) ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /059 - Poth Chola ｜ পথ চলা ｜ Artcell Band ｜ Album Onnosomoy ｜ Bangla New Song ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /060 - Priyotoma.mp3
+2025-06-09T19:53:18 update: added /067 - Mone Pore - Vibe.mp3
+2025-06-09T19:53:18 update: added /068 - Vibe _ Atripto Pran (Unsatisfied Soul) - Bangladeshi Band.mp3
+2025-06-09T19:53:18 update: added /071 - Vibe - Nostalgia (Bangla).mp3
+2025-06-09T19:53:18 update: added /072 - Vibe - Dure Dure(Ure Chole).mp3
+2025-06-09T19:53:18 update: added /073 - Durey Durey ｜ দূরে দূরে ｜ Vibe ｜ Agontuk ｜ Band Mixed Album ｜ Music Video.mp3
+2025-06-09T19:53:18 update: added /076 - Vibe - Shopnodev Lyrics.mp3
+2025-06-09T19:53:18 update: added /077 - Obinoy ｜ অবিনয় ｜ Icons  ｜ Agontuk 3 ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /078 - AFTERMATH - ONNOGAAN (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: added /080 - Dhushor Shomoy ｜｜ ধূসর সময় ｜｜ Artcell ｜｜ Oniket Prantor ｜｜ Bangla Band Song ｜｜ @G Series World Music.mp3
+2025-06-09T19:53:18 update: added /082 - Omanush ｜｜ অমানুষ ｜｜ Arbovirus ｜｜ 64m 53s  ｜｜ Bangla Band Song ｜ All Time Hit ｜@G Series World Music.mp3
+2025-06-09T19:53:18 update: added /085 - Shironamhin ｜ Swadesh (Official Music Video) ｜ #bangla Song.mp3
+2025-06-09T19:53:18 update: added /156 - Hope.mp3
+2025-06-09T19:53:18 update: added /083 - Chena Jogot ｜｜ চেনা জগৎ ｜｜ Vibe ｜｜ Chena Jogot  ｜｜ Original Track ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /086 - Odhora ｜｜ অধরা ｜｜ Vibe ｜｜ Chena Jogot  ｜｜ Original Track ｜｜ @G Series World Music.mp3
+2025-06-09T19:53:18 update: added /087 - Warfaze-Tribute To Banglalink.mp3
+2025-06-09T19:53:18 update: added /088 - Warfaze-Projonmo.mp3
+2025-06-09T19:53:18 update: added /089 - Warfaze-Jonosrot.mp3
+2025-06-09T19:53:18 update: added /090 - Abhomaan By Black ｜ Album Abar ｜ Official lyrical Video.mp3
+2025-06-09T19:53:18 update: added /091 - Tumi Ki Shara Dibe ｜ Black ｜ Album Rock 202 ｜ Official lyrical Video.mp3
+2025-06-09T19:53:18 update: added /097 - Dukkho Bilash ｜ দুঃখ বিলাশ ｜ Artcell ｜.mp3
+2025-06-09T19:53:18 update: added /100 - AFTERMATH - ODHIKAR (OFFICIAL LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: added /102 - Oniket Prantor ｜｜ অনিকেত প্রান্তর ｜｜ Artcell ｜｜ Bangla New Band Song ｜｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /104 - Oporanho --- Icons.mp3
+2025-06-09T19:53:18 update: added /106 - Tomake Chara ｜ Oni Hasan ft. Mizan Rahman ｜ (Official Music Video).mp3
+2025-06-09T19:53:18 update: added /112 - Berlin - Take My Breath Away (Official Video - Top Gun).mp3
+2025-06-09T19:53:18 update: added /114 - Not Afraid.mp3
+2025-06-09T19:53:18 update: added /116 - Lose Yourself.mp3
+2025-06-09T19:53:18 update: added /117 - Godzilla.mp3
+2025-06-09T19:53:18 update: added /119 - Jadukar.mp3
+2025-06-09T19:53:18 update: added /122 - Suzume (feat. Toaka).mp3
+2025-06-09T19:53:18 update: added /123 - Protikkha.mp3
+2025-06-09T19:53:18 update: added /125 - Warfaze-Obak Bhalobasha.mp3
+2025-06-09T19:53:18 update: added /128 - Warfaze-Rupkotha.mp3
+2025-06-09T19:53:18 update: added /129 - There Is a Light That Never Goes Out (2011 Remaster).mp3
+2025-06-09T19:53:18 update: added /130 - Till I Collapse.mp3
+2025-06-09T19:53:18 update: added /133 - I Want to Know What Love Is (1999 Remaster).mp3
+2025-06-09T19:53:18 update: added /137 - Beautiful.mp3
+2025-06-09T19:53:18 update: added /144 - timmies - soft skin (ft. shiloh).mp3
+2025-06-09T19:53:18 update: added /146 - timmies - you are loving (ft. shiloh).mp3
+2025-06-09T19:53:18 update: added /147 - timmies - loosing interest (ft. shiloh).mp3
+2025-06-09T19:53:18 update: added /155 - Moonlight.mp3
+2025-06-09T19:53:18 update: added /039 - Shahid Shoroni ｜｜ শহীদ স্মরণী ｜｜ Oniket Prantor ｜｜ Bangla Band Song ｜｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /042 - Odekha Shorgo ｜ অদেখা স্বর্গ  ｜ Artcell ｜ Chharpotro (2001) ｜ Original Track ｜@gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /044 - Odhikar.mp3
+2025-06-09T19:53:18 update: added /046 - Bidhatari Ronge Aaka ｜ বিধাতারই রঙে আঁকা ｜ Vibe ｜ Chena Jogot  ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /047 - Mone Pore  ｜ মনে পড়ে ｜  Vibe ｜ Chena Jogot ｜ Original Track ｜ @gseriesworldmusic3801.mp3
+2025-06-09T19:53:18 update: added /048 - Ure Chole Jay ｜ উড়ে চলে যায় ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /049 - Amar Shongbidhan ｜ আমার সংবিধান ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /051 - Ashar Prodip Jele ｜ আশার প্রদীপ জ্বেলে ｜ Vibe ｜ Chena Jogot ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /054 - Tomake  ｜ তোমাকে ｜ Artcell ｜ Oniket Prantor ｜ Original Track ｜ @G Series World Music.mp3
+2025-06-09T19:53:18 update: added /056 - Oniket Prantor ｜ Artcell ｜ Full Album ｜ Audio Jukebox ｜ ☢ EXCLUSIVE ☢.mp3
+2025-06-09T19:53:18 update: added /057 - Bhul Jonmo ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /061 - Chile Kothar Shepai ｜ চিলে কোঠার সেপাই ｜ Artcell ｜ Agontuk 2 ｜ Original Track ｜@G Series World Music.mp3
+2025-06-09T19:53:18 update: added /062 - Karar Oi Loho Kopat ｜ Artcell Band ｜ Album Riotous 14 ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /063 - Ishshoronio ｜ ঈশ্বরনীয় ｜ Icons ｜ Ishshoronio Album ｜ Original Track.mp3
+2025-06-09T19:53:18 update: added /064 - Chena Jogot ｜ Vibe ｜ Bangla Band Song ｜ Full Album ｜ Audio Jukebox.mp3
+2025-06-09T19:53:18 update: added /065 - Tribute to Ayub Bachchu & LRB ｜ Hallucination.mp3
+2025-06-09T19:53:18 update: added /066 - Blues & Rod ｜ Black ｜ All Time Hit Bangla Band Song ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /069 - Ure Chole Jai By Vibe ｜ Album Chena Jogot ｜ Official lyrical Video.mp3
+2025-06-09T19:53:18 update: added /070 - Shuddho Fuad Sadi (VIBE) - Nirob Michile (Official Lyric Video).mp3
+2025-06-09T19:53:18 update: added /074 - Vibe-Bidhatari Ronge Aka(Lyrics Video).mp3
+2025-06-09T19:53:18 update: added /075 - AFTERMATH - DHOA (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: added /079 - AFTERMATH - UTHSHORGO (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: added /081 - Minerva - 04 - Jaatra [HD].mp3
+2025-06-09T19:53:18 update: added /084 - Warfaze- Moharaj ( Mizan on vocals ).mp3
+2025-06-09T19:53:18 update: added /092 - Warfaze-Asha.mp3
+2025-06-09T19:53:18 update: added /093 - Warfaze-Protikkha.mp3
+2025-06-09T19:53:18 update: added /094 - Warfaze-Joto Durey.mp3
+2025-06-09T19:53:18 update: added /095 - AFTERMATH - TUMI (LYRICS VIDEO).mp3
+2025-06-09T19:53:18 update: added /096 - Onnosomoy ｜ Artcell Band ｜ Album Onnosomoy ｜ Official Lyrical Video.mp3
+2025-06-09T19:53:18 update: added /098 - 𝐒𝐡𝐫𝐢𝐧𝐞 𝐑𝐞𝐯𝐢𝐬𝐢𝐭𝐞𝐝 ｜ Oni Hasan live at Rock N Rhythm 4.0 ： Resurrection of Black.mp3
+2025-06-09T19:53:18 update: added /099 - Dukkho Bilash ｜ দুঃখ বিলাস ｜ Artcell ｜ Anushilon ｜ Coordinated by Isha Khan Duray.mp3
+2025-06-09T19:53:18 update: added /101 - TAARAI TAARAI - NAGARBAUL JAMES with TAPOSH & FRIENDS ： ROBI YONDER MUSIC WIND OF CHANGE [ PS：02 ].mp3
+2025-06-09T19:53:18 update: added /103 - Shopnodeb ｜｜ স্বপ্নদেব ｜｜ Vibe ｜｜ Bangla Band Song ｜｜ All Time Hit ｜｜ G Series ｜｜ Agniveena.mp3
+2025-06-09T19:53:18 update: added /105 - Enter Sandman, Metallica with 1.000 musicians ｜ São Paulo 2022.mp3
+2025-06-09T19:53:18 update: added /107 - Naa l Oni Hasan Featuring l Mizan l Dhaka Live Concert l 2024.mp3
+2025-06-09T19:53:18 update: added /108 - In Da Club.mp3
+2025-06-09T19:53:18 update: added /109 - Write This Down (feat. Nieve).mp3
+2025-06-09T19:53:18 update: added /110 - Without Me.mp3
+2025-06-09T19:53:18 update: added /111 - Guillaumdot - pixelisé (produit par Sagun).mp3
+2025-06-09T19:53:18 update: added /115 - Mockingbird.mp3
+2025-06-09T19:53:18 update: added /138 - 505.mp3
+2025-06-09T19:53:18 update: added /150 - XXXTENTACION - Everybody Dies In Their Nightmares (Audio).mp3
+2025-06-09T19:53:18 update: added /157 - changes.mp3
+2025-06-09T19:53:18 update: added /158 - Jocelyn Flores.mp3
+2025-06-09T19:53:18 update: added /165 - Rihanna - Diamonds.mp3
+2025-06-09T19:53:18 update: added /183 - Eminem - Mockingbird [Official Music Video].mp3
+2025-06-09T19:53:18 update: added /186 - Call of Silence.mp3
+2025-06-09T19:53:18 update: added /192 - Head Over Heels (Dave Bascombe 7＂ N.Mix).mp3
+2025-06-09T19:53:18 update: added /193 - After Dark.mp3
+2025-06-09T19:53:18 update: added /194 - Moho.mp3
+2025-06-09T19:53:18 update: added /124 - Warfaze-Hotasha.mp3
+2025-06-09T19:53:18 update: added /127 - Warfaze-Boshe Achi.mp3
+2025-06-09T19:53:18 update: added /132 - Love The Way You Lie.mp3
+2025-06-09T19:53:18 update: added /135 - アイドル.mp3
+2025-06-09T19:53:18 update: added /136 - California Dreamin'.mp3
+2025-06-09T19:53:18 update: added /141 - i feel empty (Prod. Kina).mp3
+2025-06-09T19:53:18 update: added /142 - Sing For The Moment.mp3
+2025-06-09T19:53:18 update: added /143 - XXXTENTACION - SAD! (Official Music Video).mp3
+2025-06-09T19:53:18 update: added /149 - Without Me.mp3
+2025-06-09T19:53:18 update: added /153 - XXXTENTACION - Jocelyn Flores (Audio).mp3
+2025-06-09T19:53:18 update: added /160 - Do I Wanna Know？.mp3
+2025-06-09T19:53:18 update: added /161 - Katy Perry - The One That Got Away (Official Music Video).mp3
+2025-06-09T19:53:18 update: added /166 - Tom Odell - Can't Pretend (Official Audio).mp3
+2025-06-09T19:53:18 update: added /170 - SiM – The Rumbling (OFFICIAL VIDEO).mp3
+2025-06-09T19:53:18 update: added /172 - Obak Bhalobasha ｜ Coke Studio Bangla.mp3
+2025-06-09T19:53:18 update: added /173 - Stephen Sanchez - Until I Found You (Official Video).mp3
+2025-06-09T19:53:18 update: added /174 - AURORA - Runaway.mp3
+2025-06-09T19:53:18 update: added /179 - I Wanna Be Yours.mp3
+2025-06-09T19:53:18 update: added /188 - 悪魔の子.mp3
+2025-06-09T19:53:18 update: added /190 - Jonosrot.mp3
+2025-06-09T19:53:18 update: added /195 - Agami.mp3
+2025-06-09T19:53:18 update: added /196 - Ei Obelay.mp3
+2025-06-09T19:53:18 update: added /200 - Fun.： We Are Young ft. Janelle Monáe [OFFICIAL VIDEO].mp3
+2025-06-09T19:53:18 update: added /162 - Forever Young (2019 Remaster).mp3
+2025-06-09T19:53:18 update: added /164 - Tom Odell - Can't Pretend (at Dean Street Studios).mp3
+2025-06-09T19:53:18 update: added /168 - Utshorgo.mp3
+2025-06-09T19:53:18 update: added /171 - Everybody Wants To Rule The World.mp3
+2025-06-09T19:53:18 update: added /176 - Notion.mp3
+2025-06-09T19:53:18 update: added /177 - Dhoa.mp3
+2025-06-09T19:53:18 update: added /178 - Purnota.mp3
+2025-06-09T19:53:18 update: added /182 - Hozier - Take Me To Church.mp3
+2025-06-09T19:53:18 update: added /185 - Avash ｜ Avash ｜ Official Video.mp3
+2025-06-09T19:53:18 update: added /189 - AFTERMATH l MATIR ROUD (OFFICIAL MUSIC VIDEO).mp3
+2025-06-09T19:53:18 update: added /191 - Warfaze-Shotto.mp3
+2025-06-09T19:53:18 update: added /198 - E Hawa.mp3
+2025-06-09T19:53:18 update: added /201 - Little Dark Age.mp3
+2025-06-09T19:53:18 update: added /118 - Projonmo 2012.mp3
+2025-06-09T19:53:18 update: added /120 - I Want to Know What Love Is.mp3
+2025-06-09T19:53:18 update: added /126 - Warfaze-Tomake.mp3
+2025-06-09T19:53:18 update: added /131 - Sparkle - movie ver..mp3
+2025-06-09T19:53:18 update: added /134 - No. 1 Party Anthem.mp3
+2025-06-09T19:53:18 update: added /139 - Another Day in Paradise (2016 Remaster).mp3
+2025-06-09T19:53:18 update: added /140 - The Real Slim Shady.mp3
+2025-06-09T19:53:18 update: added /145 - timmies & nineteen95 - ugly.mp3
+2025-06-09T19:53:18 update: added /148 - Stan.mp3
+2025-06-09T19:53:18 update: added /152 - XXXTENTACION - Revenge (Audio).mp3
+2025-06-09T19:53:18 update: added /154 - Look At Me!.mp3
+2025-06-09T19:53:18 update: added /159 - Revenge.mp3
+2025-06-09T19:53:18 update: added /163 - JVKE - this is what falling in love feels like (Official Video).mp3
+2025-06-09T19:53:18 update: added /167 - JVKE - golden hour (official music video).mp3
+2025-06-09T19:53:18 update: added /169 - Adele - Skyfall (Official Lyric Video).mp3
+2025-06-09T19:53:18 update: added /175 - Tom Odell - Another Love (Official Video).mp3
+2025-06-09T19:53:18 update: added /180 - E Hawa ｜ Meghdol X Hawa Film ｜ Aluminium Er Dana.mp3
+2025-06-09T19:53:18 update: added /181 - Passenger ｜ Let Her Go (Official Video).mp3
+2025-06-09T19:53:18 update: added /184 - Tom Odell - I Know (Official Video).mp3
+2025-06-09T19:53:18 update: added /187 - David Kushner - Daylight (Official Music Video).mp3
+2025-06-09T19:53:18 update: added /197 - Warfaze-Je Din.mp3
+2025-06-09T19:53:18 update: added /199 - Lana Del Rey - Summertime Sadness (Official Music Video).mp3
+2025-06-09T19:53:18 update: added /202 - Warfaze-Na.mp3
+2025-06-09T19:53:18 update: added /203 - Warfaze-Oshamajik.mp3
+2025-06-09T19:53:18 update: added /204 - Mayabee.mp3
+2025-06-09T19:53:18 update: added /205 - Matir Roud.mp3
+2025-06-09T20:00:24 player: played "001 - Master Of Puppets (Remastered).mp3"
+2025-06-10T21:33:53 player: played "001 - Master Of Puppets (Remastered).mp3"
+2025-06-10T21:38:36 player: played "002 - Metal Militia (Remastered).mp3"
+2025-06-11T23:17:14 player: played "002 - Metal Militia (Remastered).mp3"
+2025-06-11T23:19:32 player: played "003 - Seek & Destroy (Remastered).mp3"
+2025-06-11T23:19:32 output: Failed to play on "PulseAudio Output" (pulse): disconnected
+2025-06-12T15:07:20 player: played "003 - Seek & Destroy (Remastered).mp3"

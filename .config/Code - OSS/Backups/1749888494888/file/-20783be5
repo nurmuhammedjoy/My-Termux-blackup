@@ -1,0 +1,38 @@
+file:///data/data/com.termux/files/home/.config/picom/picom.conf {"mtime":1749888555371,"ctime":1749888555371,"size":592,"etag":"3ecp0fs6sj3","orphaned":false,"typeId":""}
+backend = "xrender";
+
+# No vsync (improves performance)
+vsync = false;
+
+# Disable shadows and blur
+shadow = false;
+blur-method = "none";
+
+# Full trans
+
+
+
+parency
+
+
+inactive-opacity = 0.7;
+active-opacity = 0.7;
+frame-opacity = 0.7;
+inactive-opacity-override = true;
+alpha-step = 0.06;
+
+# Enable fading
+fading = true;
+fade-in-step = 0.03;
+fade-out-step = 0.03;
+
+# No corner radius
+corner-radius = 0;
+
+# Opacity rules (force full for some apps like dmenu, rofi, etc.)
+opacity-rule = [
+  "100:class_g = 'Rofi'",
+  "100:class_g = 'Dmenu'",
+  "100:class_g = 'Polybar'",
+  "100:class_g = 'Pavucontrol'"
+];
