@@ -1,0 +1,6 @@
+# Excluded from GitHub language statistics.
+# gtk-3.0/gtk.css is GTK's generated stylesheet (~226 KB), pywal templates and the
+# GIMP theme are third-party assets. Vendored, not authored source.
+*.css linguist-vendored
+.local/lib/** linguist-vendored
+.site-packages/** linguist-vendored
